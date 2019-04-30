@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="82px" height="66px" viewBox="0 0 82 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_questions form</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="YCH-WORKS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-acc_support-(redesign)" transform="translate(-671.000000, -926.000000)" fill="#555555">
+            <g transform="translate(-10.000000, -8.000000)" id="customer-service">
+                <g transform="translate(643.000000, 934.000000)">
+                    <g id="icon_questions-form" transform="translate(60.000000, 2.000000)">
+                        <path d="M24.3567637,13.1440367 L26.6315435,17.084071 L24.8034498,18.1395213 L22.4499607,14.0631586 C21.7982637,14.2628589 21.1066453,14.370267 20.3901157,14.370267 C16.4878628,14.370267 13.3244617,11.1846061 13.3244617,7.25489416 C13.3244617,3.32518227 16.4878628,0.139521345 20.3901157,0.139521345 C24.2923687,0.139521345 27.4557697,3.32518227 27.4557697,7.25489416 C27.4557697,9.703912 26.2271521,11.8639516 24.3567637,13.1440367 Z M20.3592613,11.9229827 C22.9364012,11.9229827 25.0255859,9.81909709 25.0255859,7.22382266 C25.0255859,4.62854824 22.9364012,2.52466263 20.3592613,2.52466263 C17.7821215,2.52466263 15.6929368,4.62854824 15.6929368,7.22382266 C15.6929368,9.81909709 17.7821215,11.9229827 20.3592613,11.9229827 Z" id="Combined-Shape"></path>
+                        <ellipse id="Oval-4" cx="11.845098" cy="31.1722194" rx="1.5" ry="1.51055504"></ellipse>
+                        <rect id="Rectangle-12" x="16.7529412" y="30.5115962" width="13.6352941" height="2.25102319"></rect>
+                        <rect id="Rectangle-12" x="16.7529412" y="36.2141883" width="13.6352941" height="2.25102319"></rect>
+                        <ellipse id="Oval-4" cx="11.845098" cy="36.8748115" rx="1.5" ry="1.51055504"></ellipse>
+                        <path d="M11,8 L0,8 L0,60 L40,60 L40,8 L30,8 L30,11.4191176 L36.6902174,11.4191176 L36.6902174,56.5808824 L3.30978261,56.5808824 L3.30978261,11.4191176 L11,11.4191176 L11,8 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

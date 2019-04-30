@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="82px" height="66px" viewBox="0 0 82 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_developers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="YCH-WORKS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-acc_support-(redesign)" transform="translate(-1257.000000, -276.000000)" fill="#555555">
+            <g transform="translate(-10.000000, -8.000000)" id="for-developers">
+                <g transform="translate(1240.000000, 284.000000)">
+                    <g id="icon_developers" transform="translate(41.000000, 15.000000)">
+                        <path d="M53.3604436,3.73343152 L53.3604436,35.6425224 L2.63955638,35.6425224 L2.63955638,3.73343152 L53.3604436,3.73343152 Z M0,0 L0,1.77272727 L0,37.2272727 L0,39 L2.54545455,39 L53.4545455,39 L56,39 L56,37.2272727 L56,1.77272727 L56,0 L53.4545455,0 L2.54545455,0 L0,0 Z" id="Rectangle-28" fill-rule="nonzero"></path>
+                        <rect id="Rectangle-29" transform="translate(28.373586, 12.763531) rotate(-90.000000) translate(-28.373586, -12.763531) " x="26.8913348" y="-14.6100546" width="2.96450159" height="54.7471712"></rect>
+                        <ellipse id="Oval" cx="6.78743068" cy="7.98379971" rx="1.03142329" ry="1.03387334"></ellipse>
+                        <ellipse id="Oval" cx="13.090573" cy="7.98379971" rx="1.03142329" ry="1.03387334"></ellipse>
+                        <ellipse id="Oval" cx="19.3937153" cy="7.98379971" rx="1.03142329" ry="1.03387334"></ellipse>
+                        <g id="arrows" transform="translate(16.000000, 21.000000)">
+                            <path d="M1.27236558,1.50870072 L6.7732898,1.50870072 L6.7732898,7.02269188 L1.27236558,7.02269188 L1.27236558,1.50870072 Z M2.22986434,2.44965484 L2.22986434,7.02269188 L6.7732898,7.02269188 L6.7732898,2.44965484 L2.22986434,2.44965484 Z" id="Combined-Shape" transform="translate(4.022828, 4.265696) rotate(-45.000000) translate(-4.022828, -4.265696) "></path>
+                            <path d="M17.8897408,1.50870072 L23.390665,1.50870072 L23.390665,7.02269188 L17.8897408,7.02269188 L17.8897408,1.50870072 Z M18.8472396,2.44965484 L18.8472396,7.02269188 L23.390665,7.02269188 L23.390665,2.44965484 L18.8472396,2.44965484 Z" id="Combined-Shape" transform="translate(20.640203, 4.265696) scale(-1, 1) rotate(-45.000000) translate(-20.640203, -4.265696) "></path>
+                            <rect id="Rectangle-29" transform="translate(12.435031, 4.691826) rotate(-330.000000) translate(-12.435031, -4.691826) " x="11.9184101" y="0.189767845" width="1.03324099" height="9.00411582"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

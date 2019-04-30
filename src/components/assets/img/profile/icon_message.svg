@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="82px" height="66px" viewBox="0 0 82 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_message</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="YCH-WORKS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-acc_support-(redesign)" transform="translate(-965.000000, -926.000000)" fill="#555555">
+            <g transform="translate(-10.000000, -8.000000)" id="Email">
+                <g transform="translate(975.000000, 934.000000)">
+                    <g id="icon_message" transform="translate(10.000000, 5.000000)">
+                        <path d="M0,0 L59,0 L59,34.7289228 L0,34.7289228 L0,0 Z M18.0078999,31.9440771 L18.0078999,34.7289228 L41.0078999,34.7289228 L41.0078999,31.9440771 L18.0078999,31.9440771 Z M3.40366116,2.85773595 L3.40366116,31.9440771 L55.6444721,31.9440771 L55.6444721,2.85773595 L3.40366116,2.85773595 Z" id="Combined-Shape"></path>
+                        <path d="M31.0300618,35.3411875 L31.0300618,44.3522351 L28.8266863,44.3522351 L28.8266863,35.3040131 L25.6102084,38.520491 L24.0521866,36.9624693 L28.7489822,32.2656737 L28.8266863,32.3433778 L28.8266863,32.2852479 L31.0300618,32.2852479 L31.0300618,32.3062034 L31.0705915,32.2656737 L35.4429064,36.6379886 L33.8848847,38.1960103 L31.0300618,35.3411875 Z" id="Combined-Shape"></path>
+                        <path d="M29.6847657,18.5581202 L16.4813318,9.31297623 L14.7561955,11.7767262 L29.4764042,22.0839273 L29.6847657,21.7863562 L29.8931273,22.0839273 L44.613336,11.7767262 L42.8881997,9.31297623 L29.6847657,18.5581202 Z" id="Combined-Shape"></path>
+                        <rect id="Rectangle-6" transform="translate(17.609088, 20.667206) rotate(-51.000000) translate(-17.609088, -20.667206) " x="13.1090877" y="19.6889451" width="9" height="1.95652174"></rect>
+                        <rect id="Rectangle-6" transform="translate(41.609088, 20.667206) scale(-1, 1) rotate(-51.000000) translate(-41.609088, -20.667206) " x="37.1090877" y="19.6889451" width="9" height="1.95652174"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

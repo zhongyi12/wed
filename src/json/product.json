@@ -1,0 +1,30 @@
+{
+				"cn":{
+					
+					"4":{
+						"name":"电动夹子",
+						"price":"335.00",
+						"brief":"电动夹子uArm Metallic Gripper采用电平信号electrical level controlled，可以与uArm Metal标准版机械臂无缝对接",
+						"preview":"电动夹子1.JPG",
+						"image":{
+							"1":"电动夹子1.JPG",
+							"2":"电动夹子2.JPG",
+							"3":"电动夹子3.JPG",
+							"4":"电动夹子4.JPG"
+						},
+						"intro":"电动夹子uArm Metallic Gripper采用电平信号electrical level controlled，可以与uArm Metal标准版机械臂无缝对接。",
+						"detail":{
+							"0":{"specName":"尺寸","specVal":"92*50*18 mm"},
+							"1":{"specName":"重量","specVal":"58g"},
+							"2":{"specName":"电压范围","specVal":"5V-7V"},
+							"3":{"specName":"材质","specVal":"铝合金"},
+							"4":{"specName":"伸展范围","specVal":"0mm-25mm"},
+							"5":{"specName":"工作电流","specVal":"430mA"},
+							"6":{"specName":"静态电流","specVal":"10mA"},
+							"7":{"specName":"功能","specVal":"电流检测，温度检测"}
+						},
+						"guide":"物流单笔订单满1000元即包邮,默认快递邮费20元,顺丰30元(如需，请备注)。另该配件为uArm定制配件，两者完全兼容。本配件不建议用户单独购买，以免出现不兼容",
+
+					}
+				}
+		}

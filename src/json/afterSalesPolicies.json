@@ -1,0 +1,233 @@
+{
+  "en": {
+    "generalItems": {
+      "1": {
+        "title": "General Terms",
+        "content": ["UFACTORY guarantees that, subject to the following conditions, Return & Refund Service, Replacement Service and Warranty Repair Service can be requested. Please contact UFACTORY (support@ufactoryt.cc) for more details. "]
+      },
+      "2": {
+        "title": "You can request Return & Refund Service:",
+        "content": [
+          "√ Within seven (7) calendar days of receiving a product if the product has no manufacturing defect, has not been used and is still in new or like-new condition.",
+          "√ Within seven (7) calendar days of receiving a product if the product has a manufacturing defect."
+        ]
+      },
+      "3": {
+        "title": "Return & Refund Service will not be provided where:",
+        "content":[
+          "× It is requested beyond seven (7) calendars days of receiving a product.",
+          "× A product sent to UFACTORY for Return & Refund Service does not include all original accessories, attachments or packaging, or any item is not in new or like-new condition, i.e. with cracks, dents or scratches.",
+          "× A legal proof of purchase, receipt or invoice is not provided or is reasonably believed to have been forged or tampered with.",
+          "× Any fault or damage of the product is caused by unauthorized use or modification of the product, including exposure to moisture, entry of foreign bodies (water, oil, sand, etc.) or improper installation or operation.",
+          "× Product labels, serial numbers, waterproof marks, etc. show signs of tampering or alteration. ",
+          "× Damage is caused to the product by uncontrollable external factors, including fire, floods, high winds or lightning strikes.",
+          "× A product is not sent to UFACTORY within seven (7) calendar days after Return & Refund Service confirmation is sent from UFACTORY.",
+          "× Other circumstances stated in this policy."
+        ]
+      },
+      "4": {
+        "title": "You can request Replacement Service:",
+        "content":[
+          "√ Within fifteen (15) calendar days of receiving the product if the product has sustained a substantial damage in transit, provided always that the damage proof issued by the carrier can be provided to UFACTORY. ",
+          "√ Within fifteen (15) calendar days of receiving the product if the product suffers performance failure."
+        ]
+      },
+      "5": {
+        "title": "Replacement Service will not be provided where:",
+        "content":[
+          "× Service is requested more than fifteen (15) calendars days after receiving a product.",
+          "× Legal proof-of-purchase, receipts, or invoices are not provided, or are reasonably believed to have been forged or tampered with. ",
+          "× A product sent to UFACTORY for replacement does not include all original accessories, attachments and packaging, or contains items damaged by user error. ",
+          "× A product is found to have no defects after all appropriate tests are conducted by UFACTORY. ",
+          "× Any fault or damage of the product is caused by unauthorized use or modification of the product, including exposure to moisture, entry of foreign bodies (water, oil, sand, etc.) or improper installation or operation.",
+          "× Product labels, serial numbers, water damage marks, etc. show signs of tampering or alteration. ",
+          "× Damage is caused by uncontrollable external factors, including fires, floods, high winds, or lightning strikes. ",
+          "× Received product has not been sent back to UFACTORY seven (7) calendar days after replacement confirmation from UFACTORY.",
+          "× Other circumstances stated in this policy."
+        ]
+      },
+      "6": {
+        "title": "What to do Before Obtaining After-sales Service",
+        "content":[
+          "Before obtaining after-sales service, the following steps must be taken:",
+          "√ Follow the procedures specified by UFACTORY.",
+          "√ Provide UFACTORY with sufficient and safe access to your product, so UFACTORY can provide service as needed. ",
+          "√ Ensure that the product or part is free of any legal restrictions that prevent its replacement. ",
+          "√ If you are not the owner of a product or part, obtain authorization from the owner for UFACTORY to provide warranty service. "
+        ]
+      },
+      "7": {
+        "title": "Product and Part Replacement",
+        "content":[
+          "When after-sales service involves the replacement of a product or part, the replaced product or part becomes UFACTORY’s property and the replacement product or part becomes your property. Only unaltered UFACTORY products and parts are eligible for replacement. ",
+          "Replacement products or parts provided by UFACTORY may not be new, but it will be in good working order and at least functionally equivalent to the original product or part’s warranty. A replacement product or part shall be covered for the time remaining in the original product’s warranty."
+        ]
+      },
+      "8": {
+        "title": "Use of Personal Contact Information and Data",
+        "content":[
+          "If you obtain service under this policy, you authorize UFACTORY to store, use, and process your contact information, including name, phone numbers, address, and e-mail address. You agree and understand that it is necessary for UFACTORY to collect, process and use your data to perform service under this policy. We may contact you to inquire about your satisfaction with our service or to notify you about any product recalls or safety issues. In achieve these aims, you authorize UFACTORY to transfer your information to any country where we do business and to provide it to entities acting on our behalf. We may also disclose your information where required by law. "
+        ]
+      },
+      "9": {
+        "title": "Essential Information",
+        "content":[
+          "√ The warranty period for Return & Refund Service, Replacement Service and Warranty Repair Service may vary with respect to your product, the part experiencing issues, or the country of purchase. Please refer to https://www.ufactory.cc/#/en/support/policy for the warranty period for your product.",
+          "√ You are responsible for shipping costs and custom fee when sending product(s) for return, repair or replacement. ",
+          "√ UFACTORY will examine the returned product(s) to identify the problem. If the problem qualifies for service under this policy, UFACTORY will bear the cost for refund, replacement, or repair and return the product(s) at our cost to you.",
+          "√ If UFACTORY determines that the issue in question is not covered by this UFACTORY After-Sales Policy, you will have to apply for Customer Paid Repair Service. UFACTORY will not start repair until you agree to the cost for repair quoted by UFACTORY. If you disagree with the cost for repair, UFACTORY will return the product(s) with you burdening the cost of return shipping.",
+          "√ Please be aware that where a product is capable of retaining user-generated data, such data may be lost during the repair process. We therefore recommend that you back up your data prior to any repair.",
+          "√ Before sending your product for repair, please remove any customized decorations and items on it (including but not limited to stickers, paintings, etc.). UFACTORY will not be responsible for any damage or loss that may occur to these customized decorations and items.",
+          "√ To guarantee your legal rights, please check whether your product is intact (check whether any damage has occurred to your product during transportation) when signing for it. If the product has a defect, please report it to us within seven (7) days of signing for it; or it will be deemed that the product you signed for is intact and fully functional."
+        ]
+      }
+    },
+    "productItemstitle": "WARRANTY PERIOD OF MAIN PARTS",
+    "productItems": {
+      "Product": {"Main Components": "Warranty Period"},
+      "uArm Swift (Pro)": {
+        "uArm Body": "12 Months",
+        "Power Adapter": "12 Months",
+        "uArm Suction Cup (include 4th motor)": "12Months",
+        "uArm Gripper": "12 Months",
+        "uArm Universal Holder": "12 Months",
+        "uArm 3D Printing Kit": "12 Months ",
+        "uArm Laser Engraver Kit": "12 Months",
+        "uArm Pen Holder": "12 Months",
+        "Ultrasonic Ranger": "12 Months",
+        "Vision Camera Kit": "12 Months",
+        "uArm Stepper Motor (with customized Reducer)": "12 Months",
+        "Micro USB Cable": "No warranty",
+        "uArm 3D Printing-filament ": "No warranty"
+      },
+      "xArm Series": {
+        "xArm Body ": "12 Months",
+        "xArm Power Adapter": "12 Months",
+        "xArm Controller": "12 Months",
+        "Power Adapter of xArm Controller": "12 Months",
+        "xArm Gripper": "12 Months",
+        "xArm Suction Cup": "12 Months",
+        "Emergency Stop Switch": "12 Months",
+        "RS 485 cable": "12 Months",
+        "Network cable": "No Warranty"
+      }
+    }
+  },
+  "cn": {
+    "generalItems": {
+      "1":{
+        "title": "通用条款",
+        "content":[
+          "UFACTORY 保证, 满足下列条件可以申请退货、换货及免费维修服务。如有疑问，请联系 UFACTORY (support@ufactory.cc) . "
+        ]
+      },
+      "2":{
+        "title": "符合以下条件可以申请退货：",
+        "content":[
+          "√ 客户收到货物 7个自然日内，产品无制造缺陷，产品外包装、附件、赠品、说明书完整，并且没有任何人为损坏，不影响二次销售；",
+          "√ 客户收到货物 7个自然日内，发现产品存在非人为损坏的性能故障。"
+        ]
+      },
+      "3":{
+        "title": "以下情况我们有权拒绝客户的退货要求：",
+        "content":[
+          "× 自收货之日起超过 7个自然日后提出退货要求的；",
+          "× 退货品不全，外包装、附件、赠品、说明书不完整、或外观人为原因导致受损；",
+          "× 退货时无法提供合法的购买凭证或单据，或对单据进行伪造、涂改；",
+          "× 发生非产品本身质量问题导致的碰撞、烧毁，以及人为的私自改装、进异物（水、油、沙等）、不正确安装、未按说明书指引使用和操作所造成的产品质量问题； ",
+          "× 撕毁、涂改标签、机器序列号等；",
+          "× 联系 UFACTORY 确认退货服务后，没有在7个自然日内寄出相应物件；"
+        ]
+      },
+      "4":{
+        "title": "如符合以下条件之一，可以要求换货：",
+        "content":[
+          "√ 客户收到货物 15个自然日内，发现产品存在非人为损坏的性能故障。"
+        ]
+      },
+      "5":{
+        "title": "以下情况我们有权拒绝客户的换货要求：",
+        "content":[
+          "× 自收货之日起超过15个自然日后提出换货要求的；",
+          "× 换货时无法提供合法的购买凭证或单据，或对单据进行伪造、涂改；",
+          "× 换货品不全、或外观人为原因导致受损； ",
+          "× 经 UFACTORY 技术支持部门检测，产品本身不存在质量问题；",
+          "× 发生非产品本身质量问题导致的碰撞、烧毁，以及人为的私自改装、进异物（水、油、沙等）、不正确安装、未按说明书指引使用和操作所造成的商品质量问题；",
+          "× 撕毁、涂改标签、机器序列号等；",
+          "× 联系 UFACTORY 确认退货服务后，没有在 7个自然日内寄出相应物件；",
+          "× 政策所述其他情况。"
+        ]
+      },
+      "6":{
+        "title": "申请保修服务",
+        "content":[
+          "在产品有效保修期内产品出现性能故障，您可以申请产品保修服务。主要部件保修期限表详见下文“主要部件保修期限表”。"
+        ]
+      },
+      "7":{
+        "title": "实行免费保修服务必须符合以下条件：",
+        "content":[
+          "√ 自购买产品在规定的产品保修期限内正常使用，出现非人为的性能故障的产品；",
+          "√ 无擅自拆机、无非官方说明书指引的改装或加装、其它非人为引起的故障；",
+          "√ 提供有效的购买证明、单据及单号。"
+        ]
+      },
+      "8":{
+        "title": "以下情况不属于免费产品保修服务的情形：",
+        "content":[
+          "× 发生人为的非产品本身质量问题导致的碰撞、烧毁事故；",
+          "× 发生非官方说明书指导的私自改装、拆解等行为而造成的损坏；",
+          "× 未按说明书指导的不正确安装、使用及操作所造成的损坏；",
+          "× 在无官方说明指导的情况下，客户自行维修装配件导致的损坏；",
+          "× 因非官方说明书指导的电路改造、电源适配器的使用不当导致的损坏；",
+          "× 未按产品说明书操作导致的损坏；",
+          "× 在恶劣的环境下操控导致的损坏，如高温、雨水等；",
+          "× 机器序列号、出厂标签及其他标识撕毁、涂改迹象；",
+          "× 联系UFACTORY确认保修服务后，没有在 7个自然日内寄出相应物件。"
+        ]
+      },
+      "9":{
+        "title": "其他须知",
+        "content":[
+          "√ 将产品寄往 UFACTORY 时您需先行承担邮寄费用。",
+          "√ 用户需将问题产品寄回，UFACTORY 售后服务中心收到问题机后，将对产品进行故障检测以确定问题责任。若属于产品本身质量缺陷，UFACTORY 负责承担零件费、人工费及快递费。",
+          "√ 若经过检测产品不符合免费维修条件，客户可选择付费维修或原机寄回。",
+          "√ 若机器的问题不在保修范围内（如人为导致机器损坏），我们会根据具体问题收取相应的零件费、人工费及快递费。",
+          "√ 若客户提供的收件地址错误，或存在收件人拒绝接收的情况，由此产生的损失须由客户承担。",
+          "√ 产品寄修前，请您妥善处理原有产品上附着的个性化物品和装饰（包含但不仅限于产品外壳雕刻、装饰性贴纸、涂料喷漆等），UFACTORY对个性化物品和装饰的破损与遗失概不负责。",
+          "√ 为确保您的正常权益，在签收商品时，请您检查产品是否完好（是否存在因物流等原因造成的损坏）。如产品存在异常，请于签收日起的7日内反馈我们；否则将视为您默认产品无损坏且性能正常。"
+        ]
+      }
+    },
+    "productItemstitle": "主要部件保修期限表",
+    "productItems": {
+      "产品": {"主要部件": "保修期限"},
+      "uArm Swift (Pro)": {
+        "uArm 机身": "12个月",
+        "uArm电源适配器": "12个月",
+        "uArm第四轴吸头组件": "12个月",
+        "uArm机械爪": "12个月",
+        "uArm通用笔夹": "12个月",
+        "uArm 3D打印套件": "12个月",
+        "uArm激光雕刻套件": "12个月",
+        "uArm 触控笔夹": "12个月",
+        "uArm 超声波传感器": "12个月",
+        "uArm 视觉套件": "12个月",
+        "uArm 步进电机（含减速器）": "12个月",
+        "Micro USB 线": "无保修期",
+        "3D打印耗材": "无保修期"
+      },
+      "xArm 系列": {
+        "xArm 机身": "12个月",
+        "xArm 电源适配器": "12个月",
+        "xArm 控制器": "12个月",
+        "xArm 控制器电源": "12个月",
+        "xArm 机械爪": "12个月",
+        "xArm 吸头": "12个月",
+        "xArm紧急停止开关": "12个月",
+        "RS 485 线": "12个月",
+        "网线": "无保修期"
+      }
+    }
+  }
+}

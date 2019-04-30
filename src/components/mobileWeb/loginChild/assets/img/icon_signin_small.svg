@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_sign in_small</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.6935168,15.287037 C13.2014778,17.4994935 14.2408977,19.8660899 15.8047442,21.2809096 C15.7901101,21.4995365 15.7220385,22.3523903 15.517369,22.9755176 C8.1241467,24.5432 5.68434189e-14,30.4527072 5.68434189e-14,37.5033093 C5.68434189e-14,37.509701 6.67658793e-06,37.5160917 2.00231665e-05,37.5224815 L37.940802,37.5224815 C37.9408135,37.5160917 37.9408199,37.509701 37.9408199,37.5033093 C37.9408199,30.3197344 29.8235166,24.320702 22.4037949,22.8914737 C22.2620034,22.5033329 22.1555022,21.9386762 22.2254046,21.1581061 C22.1714542,21.2049659 22.1176647,21.2504209 22.0640436,21.2945031 C23.6255143,19.8862397 24.6394282,17.5179366 25.144866,15.2659728 C25.1773196,15.2783349 25.2107371,15.2870188 25.2450737,15.2918445 C25.8492301,15.3767531 26.5091243,14.2350563 26.7189887,12.7417933 C26.9288531,11.2485304 26.6092164,9.96916951 26.00506,9.88426088 C25.9636838,9.87844582 25.9220461,9.87838396 25.8803094,9.8837942 C26.9934044,4.80635455 24.9040704,-1.70530257e-13 18.9282852,-1.70530257e-13 C12.9542384,-1.6926481e-13 10.9684256,4.82277902 12.0336044,9.88422244 C11.9907893,9.87838458 11.948074,9.87829628 11.9056337,9.88426088 C11.3014774,9.96916951 10.9818406,11.2485304 11.1917051,12.7417933 C11.4015695,14.2350563 12.0614637,15.3767531 12.66562,15.2918445 C12.6749877,15.2905279 12.6842869,15.2889242 12.6935168,15.287037 Z" id="path-1"></path>
+        <filter x="-18.4%" y="-13.3%" width="136.9%" height="161.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.773251488   0 0 0 0 0.773251488   0 0 0 0 0.773251488  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="YCH-WORKS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Studio_USER-ID" transform="translate(-6876.000000, -3799.000000)">
+            <g id="Webpage_Sign-in-or-Register_unselected" transform="translate(6785.000000, 3036.000000)">
+                <g id="Register_page_no-data" transform="translate(70.000000, 547.000000)">
+                    <g id="Register_left">
+                        <g id="Group-4" transform="translate(5.000000, 218.000000)">
+                            <g id="icon_sign-in_small" transform="translate(20.000000, 0.531935)">
+                                <g>
+                                    <g>
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                        <use fill="#B6B6B6" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

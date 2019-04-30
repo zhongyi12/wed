@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>播放button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="swift" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="产品详情1st" transform="translate(-942.000000, -1153.000000)" fill="#D8D8D8">
+            <g id="详情页banner图" transform="translate(0.000000, -302.000000)">
+                <g id="播放btn" transform="translate(782.000000, 1455.000000)">
+                    <g id="播放button" transform="translate(160.000000, 0.000000)">
+                        <path d="M18.298913,36.5978261 C28.4051237,36.5978261 36.5978261,28.4051237 36.5978261,18.298913 C36.5978261,8.19270243 28.4051237,0 18.298913,0 C8.19270243,0 0,8.19270243 0,18.298913 C0,28.4051237 8.19270243,36.5978261 18.298913,36.5978261 Z M18.298913,35.5978261 C8.74498718,35.5978261 1,27.8528389 1,18.298913 C1,8.74498718 8.74498718,1 18.298913,1 C27.8528389,1 35.5978261,8.74498718 35.5978261,18.298913 C35.5978261,27.8528389 27.8528389,35.5978261 18.298913,35.5978261 Z" id="Oval-19"></path>
+                        <polygon id="Triangle-3" points="25.8150123 19.107055 15.3584906 26.3461854 15.3584906 11.8679245"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,313 @@
+{
+	"cn":{
+		"document":{
+			"title":"文档和指南",
+			"swiftlist":{
+				"1":{
+					"name":"uArm Swift入门指南",
+					"link":"http://update.ufactory.cc/releases/stable/docs/swift/swift_quick_start_guide-1.0.0.pdf"
+				}
+			},
+			"metallist":{
+				"1":{
+					"name":"uArm Metal入门指南",
+					"link":"http://download.ufactory.cc/docs/cn/uArm-Metal-Getting-Started-Guide.pdf"
+				},
+				"2":{
+					"name":"uArm Metal开发者指南",
+					"link":"http://download.ufactory.cc/docs/cn/uArm-Metal-Developer-Guide.pdf"
+				},
+				"3":{
+					"name":"uArm Gcode 通信协议",
+					"link":"http://download.ufactory.cc/docs/cn/uarm_gcode_communication_protocol_v1.0_cn.pdf",
+					"intro":"uArm gCode 是在全新的 uArm firmware2.0 中所采用的的通讯协议，它在标准 gCode 上 增加了协议头，增加了更多的功能也使得调试起来更加方便快捷，同时底层设计解码的时 候需要按照标准 gCode 的解码方法，使得可以兼容标准 G 代码，继承 gCode 的参数个数不 固定、关键字顺序不固定、空格可有可无等风格的指令。"
+				},
+				"4":{
+					"name":"uArm Metal发货清单",
+					"link":"http://download.ufactory.cc/docs/cn/uArm-Metal-Packing-List_standard-Kit.pdf"
+				},
+				"5":{
+					"name":"uArm Swift & uArm Swift Pro 技术参数V1.0",
+					"link":"http://cdn.ufactory.cc/img/swift/uArm-Swift-Specifications-cn.pdf"
+				}
+			}
+		},
+		"software":{
+			"title":"软件",
+			"bottomText":"其他平台下载",
+			"platform":{
+				"Windows":{
+					"metal":{
+						"2":{
+							"name":"uClient客户端",
+							"versionlist":{
+								"version":{
+									"name":"v2.0",
+									"date":"2016-11-29",
+									"link":"http://download.ufactory.cc/tools/windows/pro/uclient_v2.0.zip",
+									"intro":"您可通过uClient V2.0用鼠标实时控制uArm。"
+								}
+							}
+						},
+
+						"4":{
+							"name":"uArm 助手",
+							"versionlist":{
+								"version":{
+									"name":"V1.1",
+									"date":"2016-11-24",
+									"link":"http://download.ufactory.cc/tools/windows/uarm_assistant_v1.1.zip",
+									"intro":"uArm玩家必备。此工具将为您的电脑安装控制uArm所需的所有软件环境，包括自动安装驱动，固件升级和校正。"
+								}
+
+							}
+						}
+					},
+					"swift":{
+						"2":{
+							"name":"uArm Studio for Swift",
+							"versionlist":{
+								"version":{
+									"name":"v2.0",
+									"date":"2016-11-29",
+									"link":"http://update.ufactory.cc/releases/stable/studio/win32-x64-prod-v1.0.37/uArmStudio-Setup-1.0.37.exe",
+									"intro":"version 1.0.37"
+								}
+							}
+						}
+					}
+
+				},
+				"Mac":{
+					"metal":{
+						"1":{
+							"name":"uClient客户端",
+							"versionlist":{
+								"version":{
+									"name":"v2.0",
+									"date":"2016-11-29",
+									"link":"http://download.ufactory.cc/tools/mac/pro/uclient_v2.0.zip",
+									"intro":"您可通过uClient V2.0用鼠标实时控制uArm。"
+								}
+							}
+						},
+
+						"3":{
+							"name":"uArm 助手",
+							"versionlist":{
+								"version":{
+									"name":"V1.1",
+									"date":"2016-11-24",
+									"link":"http://download.ufactory.cc/tools/mac/uarm_assistant_v1.1.zip",
+									"intro":"uArm玩家必备。此工具将为您的电脑安装控制uArm所需的所有软件环境，包括自动安装驱动，固件升级和校正。"
+								}
+
+							}
+						}
+					},
+					"swift":{
+						"2":{
+							"name":"uArm Studio for Swift",
+							"versionlist":{
+								"version":{
+									"name":"v2.0",
+									"date":"2016-11-29",
+									"link":"http://update.ufactory.cc/releases/stable/studio/darwin-x64-prod-v1.0.37/uArmStudio-1.0.37.dmg",
+									"intro":"version 1.0.37"
+								}
+							}
+						}
+					}
+				},
+				"Linux":{
+					"metal":{
+						"1":{
+							"name":"uClient客户端",
+							"versionlist":{
+								"version":{
+									"name":"v2.0",
+									"date":"2016-11-29",
+									"link":"http://download.ufactory.cc/tools/linux/pro/uclient_v2.0.zip",
+									"intro":"您可通过uClient V2.0用鼠标实时控制uArm。"
+								}
+							}
+						},
+
+						"3":{
+							"name":"uArm 助手",
+							"versionlist":{
+								"version":{
+									"name":"V1.0",
+									"date":"2016-11-29",
+									"link":"http://download.ufactory.cc/tools/linux/pro/uarm_assistant_v1.0.zip",
+									"intro":"uArm玩家必备。此工具将为您的电脑安装控制uArm所需的所有软件环境，包括自动安装驱动，固件升级和校正。"
+								}
+							}
+						}
+					},
+					"swift":{
+
+					}
+				}
+
+			}
+		}
+
+	},
+	"en":{
+		"document":{
+			"title":"Documents",
+			"swiftlist":{
+				"1":{
+					"name":"Getting Started with uArm Swift",
+					"link":"http://update.ufactory.cc/releases/stable/docs/swift/swift_quick_start_guide-1.0.0.pdf"
+				}
+			},
+			"metallist":{
+				"1":{
+					"name":"Getting Started with uArm Metal",
+					"link":"http://download.ufactory.cc/docs/en/uArm-Metal-Getting-Started-Guide.pdf"
+				},
+				"2":{
+					"name":"uArm Metal Developer Guide",
+					"link":"http://download.ufactory.cc/docs/en/uArm-Metal-Developer-Guide.pdf"
+				},
+				"3":{
+					"name":"uArm Metal GCode Communication Protocol",
+					"link":"http://download.ufactory.cc/docs/en/uarm_gcode_communication_protocol_v1.0_en.pdf",
+					"intro":"UArm gCode is an important part of the uArm firmware 2.0. Based on the standard gCode protocol, we add a new protocol head in front of the gCode so that it can be more easily to use and debug. What’s more it is designed to be compatible with the standard gCode."
+				},
+				"4":{
+					"name":"uArm Metal Packing List",
+					"link":"http://download.ufactory.cc/docs/en/uArm-Metal-Packing-List_standard-Kit.pdf"
+				},
+				"5":{
+					"name":"uArm Swift & uArm Swift Pro Technical Specifications V1.0",
+					"link":"http://cdn.ufactory.cc/img/swift/uArm-Swift-Specifications-en.pdf"
+				}
+			}
+		},
+		"software":{
+			"title":"Software",
+			"bottomText":"For another platform",
+			"platform":{
+				"Windows":{
+					"metal":{
+						"2":{
+							"name":"uClient",
+							"versionlist":{
+								"version":{
+									"name":"v2.0",
+									"date":"2016-11-29",
+									"link":"http://download.ufactory.cc/tools/windows/pro/uclient_v2.0.zip",
+									"intro":"With uClient, you can control uArm with mouse, in real time. "
+								}
+							}
+						},
+
+						"4":{
+							"name":"uArm Assistant",
+							"versionlist":{
+								"version":{
+									"name":"V1.1",
+									"date":"2016-11-24",
+									"link":"http://download.ufactory.cc/tools/windows/uarm_assistant_v1.1.zip",
+									"intro":"A MUST for EVERY uArm user. This tool sets up the basic software environment needed for controlling uArm: automatic driver installation, firmware upgrade and calibration."
+								}
+
+							}
+						}
+					},
+					"swift":{
+						"2":{
+							"name":"uArm Studio",
+							"versionlist":{
+								"version":{
+									"name":"v2.0",
+									"date":"2016-11-29",
+									"link":"http://update.ufactory.cc/releases/stable/studio/win32-x64-prod-v1.0.37/uArmStudio-Setup-1.0.37.exe",
+									"intro":"version 1.0.37"
+								}
+							}
+						}
+					}
+				},
+				"Mac":{
+					"metal":{
+						"1":{
+							"name":"uClient",
+							"versionlist":{
+								"version":{
+									"name":"v2.0",
+									"date":"2016-11-29",
+									"link":"http://download.ufactory.cc/tools/mac/pro/uclient_v2.0.zip",
+									"intro":"With uClient, you can control uArm with mouse, in real time. "
+								}
+							}
+						},
+
+						"3":{
+							"name":"uArm Assistant",
+							"versionlist":{
+								"version":{
+									"name":"V1.1",
+									"date":"2016-11-24",
+									"link":"http://download.ufactory.cc/tools/mac/uarm_assistant_v1.1.zip",
+									"intro":"A MUST for EVERY uArm user. This tool sets up the basic software environment needed for controlling uArm: automatic driver installation, firmware upgrade and calibration."
+								}
+
+							}
+						}
+					},
+					"swift":{
+						"2":{
+							"name":"uArm Studio",
+							"versionlist":{
+								"version":{
+									"name":"v2.0",
+									"date":"2016-11-29",
+									"link":"http://update.ufactory.cc/releases/stable/studio/darwin-x64-prod-v1.0.37/uArmStudio-1.0.37.dmg",
+									"intro":"version 1.0.37"
+								}
+							}
+						}
+					}
+				},
+
+				"Linux":{
+					"metal":{
+						"1":{
+							"name":"uClient",
+							"versionlist":{
+								"version":{
+									"name":"v2.0",
+									"date":"2016-11-29",
+									"link":"http://download.ufactory.cc/tools/linux/pro/uclient_v2.0.zip",
+									"intro":"With uClient, you can control uArm with mouse, in real time. "
+								}
+							}
+						},
+
+						"3":{
+							"name":"uArm Assistant",
+							"versionlist":{
+								"version":{
+									"name":"V1.0",
+									"date":"2016-11-29",
+									"link":"http://download.ufactory.cc/tools/linux/pro/uarm_assistant_v1.0.zip",
+									"intro":"A MUST for EVERY uArm user. This tool sets up the basic software environment needed for controlling uArm: automatic driver installation, firmware upgrade and calibration."
+								}
+							}
+						}
+					},
+					"swift":{
+
+					}
+				}
+
+			}
+		}
+
+	}
+
+}

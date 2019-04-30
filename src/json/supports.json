@@ -1,0 +1,122 @@
+{
+	
+	"win":{
+		"metal":{
+			"uClient":{
+				"name":"uClient",
+				"version":"2.0",
+				"date":"2016-11-29",
+				"link":"http://download.ufactory.cc/tools/windows/pro/uclient_v2.0.zip",
+				"intro":{
+					"en": ["With uClient, you can control uArm with mouse, in real time. "],
+					"cn": ["您可通过uClient V2.0用鼠标实时控制uArm。"]
+					}
+			},
+
+			"uArm Assistant":{
+				"name":"uArm Assistant",
+				"version":"1.1",
+				"date":"2016-11-24",
+				"link":"http://download.ufactory.cc/tools/windows/uarm_assistant_v1.1.zip",
+				"intro":{
+					"en": ["A MUST for EVERY uArm user.<br>This tool sets up the basic software environment needed for controlling uArm: automatic driver installation, <br>firmware upgrade and calibration."],
+					"cn": ["uArm玩家必备。<br>此工具将为您的电脑安装控制uArm所需的所有软件环境，<br>包括自动安装驱动，固件升级和校正。"]
+					}
+			}
+		},
+		"pro": {},
+		"swift":{
+			"uArmStudio":{
+				"name":"uArmStudio",
+				"version":"1.1.13-p5",
+				"date":"2017-10-13",
+				"link":"https://update.ufactory.cc/releases/studio/uArmStudio-x64-prod-1.1.13-p5.exe",
+				"intro":{
+					"en": "uArm Studio is an all-in-one software for controlling uArm Swift & uArm Swift Pro. It includes driver installation and firmware upgrade.",
+					"cn": "uArm Studio是 uArm Swift 和 uArm Swift Pro 的控制软件，包含驱动安装和固件更新。"
+					}
+			},
+			"CuraForuArm": {}
+		}
+	},
+	"mac":{
+		"metal":{
+			"uClient":{
+				"name":"uClient",
+				"version":"2.0",
+				"date":"2016-11-29",
+				"link":"http://download.ufactory.cc/tools/mac/pro/uclient_v2.0.zip",
+				"intro":{
+					"en": ["With uClient, you can control uArm with mouse, in real time. "],
+					"cn": ["您可通过uClient V2.0用鼠标实时控制uArm。"]
+					}
+			},
+
+			"uArm Assistant":{
+				"name":"uArm Assistant",
+				"version":"1.1",
+				"date":"2016-11-24",
+				"link":"http://download.ufactory.cc/tools/mac/uarm_assistant_v1.1.zip",
+				"intro":{
+					"en": ["A MUST for EVERY uArm user.<br>This tool sets up the basic software environment needed for controlling uArm: automatic driver installation,<br> firmware upgrade and calibration."],
+					"cn": ["uArm玩家必备。<br>此工具将为您的电脑安装控制uArm所需的所有软件环境，<br>包括自动安装驱动，固件升级和校正。"]
+					}
+			}
+		},
+		"pro": {},
+		"swift":{
+			"uArmStudio":{
+				"name":"uArmStudio",
+				"version":"1.1.13-p5",
+				"date":"2017-10-13",
+				"link":"https://update.ufactory.cc/releases/studio/uArmStudio-prod-1.1.13-p5.dmg",
+				"intro":{
+					"en": "uArm Studio is an all-in-one software for controlling uArm Swift & uArm Swift Pro. It includes driver installation and firmware upgrade.",
+					"cn": "uArm Studio是 uArm Swift 和 uArm Swift Pro 的控制软件，包含驱动安装和固件更新。"
+					}
+			},
+			"CuraForuArm": {}
+		}
+	},
+	"linux":{
+		"metal":{
+			"uClient":{
+				"name":"uClient",
+				"version":"2.0",
+				"date":"2016-11-29",
+				"link":"http://download.ufactory.cc/tools/linux/pro/uclient_v2.0.zip",
+				"intro":{
+					"en": ["With uClient, you can control uArm with mouse, in real time. "],
+					"cn": ["您可通过uClient V2.0用鼠标实时控制uArm。"]
+					}
+			},
+
+			"uArm Assistant":{
+				"name":"uArm Assistant",
+				"version":"1.0",
+				"date":"2016-11-24",
+				"link":"http://download.ufactory.cc/tools/linux/pro/uarm_assistant_v1.0.zip",
+				"intro":{
+					"en": ["A MUST for EVERY uArm user. <br>This tool sets up the basic software environment needed for controlling uArm: automatic driver installation, <br>firmware upgrade and calibration."],
+					"cn": ["uArm玩家必备。<br>此工具将为您的电脑安装控制uArm所需的所有软件环境，<br>包括自动安装驱动，固件升级和校正。"]
+					}
+
+			}
+		},
+		"pro": {},
+		"swift":{
+			"uArmStudio":{
+				"name":"uArmStudio",
+				"version":"1.1.13-p5",
+				"date":"2017-10-13",
+				"link":"https://update.ufactory.cc/releases/studio/uArmStudio-prod-1.1.13-p5.AppImage",
+				"intro":{
+					"en": "uArm Studio is an all-in-one software for controlling uArm Swift & uArm Swift Pro. It includes driver installation and firmware upgrade.",
+					"cn": "uArm Studio是 uArm Swift 和 uArm Swift Pro 的控制软件，包含驱动安装和固件更新。"
+					}
+			},
+			"CuraForuArm": {}
+		}
+	}
+
+}

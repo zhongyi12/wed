@@ -1,0 +1,120 @@
+{
+  "firmware": {
+    "swiftpro": {
+      "releaseNote": {
+        "en": [
+          "Support grove - Gesture, Color, Ultrasonic"
+        ],
+        "cn": [
+          "支持 grove, 手势传感器 (Gesture), 颜色传感器 (Color), 超声波传感器 (Ultrasonic)"
+        ]
+      },
+      "version": "3.1.4",
+      "url": "http://192.168.31.185/releases/firmware/swiftpro-dev-3.1.4.hex",
+      "name": "Swift Pro",
+      "publishDate": "2017-06-01"
+    },
+    "swift": {
+      "releaseNote": {
+        "en": [
+          "Modify Grove Report Format to @10 N* V*",
+          "Fix Learning mode finish position issue"
+        ],
+        "cn": [
+          "修改了 Grove 上报格式为 @10 N* V*",
+          "学习模式结束后位置问题"
+        ]
+      },
+      "version": "2.1.6",
+      "url": "http://192.168.31.185/releases/firmware/swift-dev-2.1.6.hex",
+      "name": "Swift",
+      "publishDate": "2017-06-01"
+    }
+  },
+  "software": {
+    "uArmStudio-linux-x64": {
+      "releaseNote": {
+        "en": [
+          "1. Compatible with Linux System"
+        ],
+        "cn": [
+          "1. 兼容 Linux 系统"
+        ]
+      },
+      "version": "1.0.50",
+      "url": "http://192.168.31.185/releases/studio/uArmStudio-dev-1.0.50.AppImage",
+      "name": "uArmStudio",
+      "publishDate": "2017-06-01"
+    },
+    "CuraForuArm-mac-x64": {
+      "releaseNote": {
+        "cn": [
+          "Cura For uArm 第一个版本"
+        ],
+        "en": [
+          "First version Cura For uArm"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "http://192.168.31.185/releases/cura/CuraForuArm-dev-1.0.0.dmg",
+      "name": "Cura For uArm",
+      "publishDate": "2017-06-01"
+    },
+    "uArmStudio-mac-x64": {
+      "releaseNote": {
+        "en": [
+          "1. Compatible with Swift && Swift Pro"
+        ],
+        "cn": [
+          "1. 同时兼容 Swift && Swift Pro"
+        ]
+      },
+      "version": "1.0.50",
+      "url": "http://192.168.31.185/releases/studio/uArmStudio-dev-1.0.50.dmg",
+      "name": "uArmStudio",
+      "publishDate": "2017-06-01"
+    },
+    "uArmStudio-win-x64": {
+      "releaseNote": {
+        "en": [
+          "1. Compatible with Swift && Swift Pro"
+        ],
+        "cn": [
+          "1. 同时兼容 Swift && Swift Pro"
+        ]
+      },
+      "version": "1.0.50",
+      "url": "http://192.168.31.185/releases/studio/uArmStudio-x64-dev-1.0.50.exe",
+      "name": "uArmStudio",
+      "publishDate": "2017-06-01"
+    },
+    "CuraForuArm-win-x64": {
+      "releaseNote": {
+        "cn": [
+          "Cura For uArm 第一个版本"
+        ],
+        "en": [
+          "First version Cura For uArm"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "http://192.168.31.185/releases/cura/CuraForuArm-x64-dev-1.0.0.exe",
+      "name": "Cura For uArm",
+      "publishDate": "2017-06-01"
+    },
+    "CuraForuArm-linux-x64": {
+      "releaseNote": {
+        "cn": [
+          "兼容 Linux 系统"
+        ],
+        "en": [
+          "Compatible with Linux System"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "http://192.168.31.185/releases/cura/CuraForuArm-dev-1.0.0.AppImage",
+      "name": "Cura For uArm",
+      "publishDate": "2017-06-01"
+    }
+  }
+}

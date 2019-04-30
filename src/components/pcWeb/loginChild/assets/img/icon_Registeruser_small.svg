@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="99px" height="114px" viewBox="0 0 99 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>img_Register user_unselected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30.3965949,53.7663489 C31.6126496,58.9446337 34.1021372,64.4845382 37.8482032,67.7960746 C37.8131583,68.3076487 37.6501448,70.3032763 37.1600154,71.7613574 C19.4551934,75.4296419 5.68434189e-14,89.2575404 5.68434189e-14,105.755534 C5.68434189e-14,105.77049 1.5988671e-05,105.785444 4.79502145e-05,105.800396 L90.8582364,105.800396 C90.8582639,105.785444 90.8582793,105.77049 90.8582793,105.755534 C90.8582793,88.946392 71.4194739,74.9090096 53.6511931,71.5646997 C53.3116397,70.656473 53.0565973,69.3352096 53.2239953,67.5087217 C53.0947982,67.6183707 52.9659864,67.7247328 52.837578,67.8278825 C56.5787953,64.5309497 59.007421,58.9852902 60.2171867,53.7134203 C60.3008722,53.7464787 60.3872326,53.7695212 60.4761302,53.782015 C61.9229256,53.9853488 63.4938762,51.3176173 63.9849466,47.82347 C64.476017,44.3293226 63.7012488,41.3319219 62.2544534,41.128588 C62.1624651,41.1156599 62.0699748,41.1143381 61.9772922,41.1240971 C64.6411456,29.2444414 59.6373301,18 45.328262,18 C31.0234269,18 26.2674471,29.282755 28.8165484,41.1249342 C28.7212869,41.1142738 28.6262192,41.1153017 28.5316817,41.128588 C27.0848863,41.3319219 26.3101181,44.3293226 26.8011885,47.82347 C27.2922588,51.3176173 28.8632095,53.9853488 30.3100048,53.782015 C30.3391424,53.77792 30.3680074,53.7726917 30.3965949,53.7663489 Z" id="path-1"></path>
+        <filter x="-7.7%" y="-5.7%" width="115.4%" height="149.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.773251488   0 0 0 0 0.773251488   0 0 0 0 0.773251488  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="YCH-WORKS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Studio_USER-ID" transform="translate(-4721.000000, -3362.000000)">
+            <g id="Page_-sign-in-or-register" transform="translate(3930.000000, 3036.000000)">
+                <g id="login-or-register" transform="translate(240.000000, 154.000000)">
+                    <g id="right" transform="translate(400.000000, 0.000000)">
+                        <g id="Register-user" transform="translate(155.000000, 174.000000)">
+                            <g id="img_Register-user">
+                                <g id="Combined-Shape">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#C5C5C5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <g id="+" transform="translate(9.000000, 0.000000)">
+                                    <path d="M16,8 C16,3.581722 12.418278,0 8,0 C3.581722,0 0,3.581722 0,8 C0,12.418278 3.581722,16 8,16 L16,16 L16,8 Z" id="Combined-Shape" stroke="#C5C5C5" stroke-width="3" fill="#C5C5C5"></path>
+                                    <path d="M8.5,6 L8.5,11" id="Line" stroke="#A2A2A2" stroke-linecap="square" transform="translate(8.500000, 8.500000) scale(-1, 1) translate(-8.500000, -8.500000) "></path>
+                                    <path d="M8.5,6 L8.5,11" id="Line" stroke="#A2A2A2" stroke-linecap="square" transform="translate(8.500000, 8.500000) scale(-1, 1) rotate(-90.000000) translate(-8.500000, -8.500000) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

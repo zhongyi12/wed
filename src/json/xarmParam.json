@@ -1,0 +1,115 @@
+{
+  "cn": {
+    "xArm": {
+      "性能": {
+        "*环境温度(°C)": "0-50 °C*",
+        "功耗(w)": "最低 8.4 W, 典型 120 W, 最高 240 W",
+        "输入电源": "24 V DC, 10 A",
+        "电源": "100-240 V AC, 50-60 Hz"
+      },
+      "特性": {
+        "IP 等级": "IP54",
+        "ISO 洁净室等级": "5",
+        "机器人安装": "任意角度",
+        "I/O 接口": "数字 x 2<br>485 x 2"
+      },
+      "通信": {
+        "编程方式 ": "PC/移动端图形界面</br>Python/C++/ROS底层接口",
+        "通信协议": "自定义",
+        "通信模式": "RS-485/Ethernet TCP-IP"
+      },
+      "物理": {
+        "占地面积(mm)": "Ø 126 mm",
+        "材料": " 铝、 碳纤维",
+        "工具连接类型": "M5"
+      
+      },
+      "规格": {
+        "有效负载(kg)": "",
+        "有效工作半径(mm)": "",
+        "自由度": "",
+        "重复定位精度(mm)": "",
+        "最大末端速度(m/s)": "",
+        "重量(kg)": ""
+      }
+    },
+    "gripper": {
+      "技术参数": {
+        "额定电源电压": "24V DC",
+        "绝对最大电源电压": "28V DC",
+        "静态功耗（最低功耗）": "1.5W",
+        "峰值电流": "1.5A"
+      },
+      "控制方式": {
+        "通信方式": "RS-485",
+        "通信协议": "Modbus RTU",
+        "可编程参数": "位置、速度、力控制",
+        "状态指示": "故障状态、功率",
+        "反馈": "电机电流、夹具位置、视觉、抓握检测"
+      }
+    },
+    "griptips": {
+      "技术参数": {
+        "负载": "4kg",
+        "吸盘数量": "5",
+        "最大真空度": "-90kpa"
+      }
+    }
+  },
+  "en": {
+    "xArm": {
+      "Performance": {
+        "*Ambient Temperature Range(°C)": "0-50 °C*",
+        "Power Consumption(w)": "Min 8.4 W, Typical 120 W, Max 240 W",
+        "Input Power Supply": "24 V DC, 10 A",
+        "Power Supply": "100-240 V AC, 50-60 Hz"
+      },
+      "Features": {
+        "IP Classification": "IP54",
+        "ISO Class Cleanroom": "5",
+        "Robot Mounting": "Any",
+        "I/O Ports": "Digital x 2<br>485 x 2"
+      },
+      "Communication": {
+        "Programming ": "PC/Mobile Graphical Interface</br>Python/C++/ROS Underlying Interface",
+        "Communication Protocol": "Self-defined",
+        "Communication Mode": "RS-485/Ethernet TCP-IP"
+      },
+      "Physical": {
+        "Footprint(mm)": "Ø 126 mm",
+        "Materials": " Aluminium, Carbon Fiber",
+        "Tool Connector Type": "M5"
+      },
+      "Specification": {
+        "Payload(kg)": "",
+        "Reach(mm)": "",
+        "Degrees of Freedom": "",
+        "Repeatability(mm)": "",
+        "Typical Tool Maximum Speed(m/s)": "",
+        "Weight（kg）": ""
+      }
+    },
+    "gripper": {
+      "Electrical Specifications": {
+        "Nominal supply voltage": "24V DC",
+        "Absolute maximum supply voltage": "28V DC",
+        "Quiescent power (minimum power consumption)": "1.5W",
+        "Peak current": "1.5A"
+      },
+      "Control ": {
+        "Communication Mode": "RS-485",
+        "Communication protocol": "Modbus RTU",
+        "Programmable gripping parameters ": "Position, speed and force control ",
+        "Status LED": "Fault status, power",
+        "Feedback": " Motor Current, gripper position, video, grip detection"
+      }
+    },
+    "griptips": {
+      "Specifications": {
+        "Payload": "4kg",
+        "Suction cups": "5",
+        "Maximum vacuum degree": "-90kpa"
+      }
+    }
+  }
+}

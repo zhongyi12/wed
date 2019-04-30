@@ -1,0 +1,219 @@
+{
+	"cn":{
+		"document":{
+			"pro":{
+				"1":{
+					"name":"uArm Swift Pro用户手册",
+					"link":"http://download.ufactory.cc/docs/cn/uArm%20Swift%20Pro%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%20v1.0.17_20180619.pdf",
+          "version" : "v1.0.17",
+					"date"    : "2018-06-19"
+				},
+				"2":{
+					"name":"uArm Swift Pro开发者手册",
+					"link":"http://download.ufactory.cc/docs/cn/uArm%20Swift%20Pro%E5%BC%80%E5%8F%91%E8%80%85%E6%89%8B%E5%86%8Cv1.0.6.pdf",
+					"version" : "v1.0.6",
+					"date"    : "2018-04-02"
+				},
+				"3":{
+					"name":"uArm Swift & uArm Swift Pro 技术参数",
+					"link":"http://download.ufactory.cc/docs/en/uArm-Swift-Specifications-171012.pdf",
+					"version" : "v1.4",
+					"date"    : "2017-10-12"
+				},
+        "4":{
+          "name":"视觉套件使用手册",
+          "link":"http://download.ufactory.cc/docs/cn/%E8%A7%86%E8%A7%89%E5%A5%97%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20V1.7.pdf",
+          "version" : "v1.7",
+          "date"    : "2019-02-25"
+        },
+        "5":{
+          "name":"uArm Swift Pro 校准教程 V1.0.2",
+          "link":"http://download.ufactory.cc/docs/cn/uArm%20Swift%20Pro%20%E6%A0%A1%E5%87%86%E6%95%99%E7%A8%8B%20V1.0.2_20181212.pdf",
+          "version" : "v1.0.2",
+          "date"    : "2018-12-12"
+        },
+        "6":{
+          "name":"uArm-固件指引",
+          "link":"http://download.ufactory.cc/docs/cn/uArm-%E5%9B%BA%E4%BB%B6%E6%8C%87%E5%BC%95_20181218.docx",
+          "version" : "v1.0.8",
+          "date"    : "2018-12-18"
+        },
+        "7":{
+          "name":"uArm Controller 说明书",
+          "link":"http://download.ufactory.cc/docs/cn/uArm%20Controller%20%E8%AF%B4%E6%98%8E%E4%B9%A6V1.0.1_20181229.pdf",
+          "version" : "v1.0.0",
+          "date"    : "2018-12-29"
+        },
+        "8":{
+          "name":"uArm传送带套件使用手册V1.0.0",
+          "link":"http://download.ufactory.cc/docs/cn/uArm%E4%BC%A0%E9%80%81%E5%B8%A6%E5%A5%97%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8CV1.0.0.pdf",
+          "version" : "v1.0.0",
+          "date"    : "2019-02-27"
+        },
+        "9":{
+          "name":"uArm滑轨套件使用手册V1.0.0",
+          "link":"http://download.ufactory.cc/docs/cn/uArm%E6%BB%91%E8%BD%A8%E5%A5%97%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8CV1.0.0.pdf",
+          "version" : "v1.0.0",
+          "date"    : "2019-02-27"
+        }
+			},
+
+
+      "swift":{
+        "1":{
+          "name":"uArm Swift入门指南",
+          "link":"http://download.ufactory.cc/docs/cn/Swift-Quick-Start-Guide-180103.pdf",
+          "version" : "V1.0.1",
+          "date"    : "2018-01-03"
+        },
+        "2":{
+          "name":"uArm Swift & uArm Swift Pro 技术参数",
+          "link":"http://download.ufactory.cc/docs/en/uArm-Swift-Specifications-171012.pdf",
+          "version" : "v1.4",
+          "date"    : "2017-10-12"
+        },
+        "3":{
+          "name":"uArm STEAM Education Brochure",
+          "link":"http://download.ufactory.cc/docs/en/uArm-STEAM-Education-Brochure.pdf",
+          "version" : "V1.0",
+          "date"    : "2017-06-20"
+        }
+      },
+
+
+			"metal":{
+				"1":{
+					"name":"uArm Metal入门指南",
+					"link":"http://download.ufactory.cc/docs/cn/uArm-Metal-Getting-Started-Guide.pdf",
+					"date"    : "2017-03"
+				},
+				"2":{
+					"name":"uArm Metal开发者指南",
+					"link":"http://download.ufactory.cc/docs/cn/uArm-Metal-Developer-Guide.pdf",
+					"date"    : "2017-03"
+				},
+				"3":{
+					"name":"uArm Gcode 通信协议",
+					"link":"http://download.ufactory.cc/docs/cn/uarm_gcode_communication_protocol_v1.0_cn.pdf",
+					"intro":"uArm gCode 是在全新的 uArm firmware2.0 中所采用的的通讯协议，<br>它在标准 gCode 上增加了协议头，增加了更多的功能也使得调试起来更加方便快捷，<br>同时底层设计解码的时候需要按照标准 gCode 的解码方法，使得可以兼容标准 G 代码，<br>继承 gCode 的参数个数不固定、关键字顺序不固定、空格可有可无等风格的指令。",
+					"date"    : "2017-03"
+				},
+				"4":{
+					"name":"uArm Metal发货清单",
+					"link":"http://download.ufactory.cc/docs/cn/uArm-Metal-Packing-List_standard-Kit.pdf",
+					"date"    : "2017-03"
+				}
+			}
+		}
+
+	},
+	"en":{
+		"document":{
+			"pro":{
+        "1":{
+          "name":"Getting Started with uArm Swift Pro",
+          "link":"http://download.ufactory.cc/docs/en/uArm%20Swift%20Pro%20Quick%20Starter%20Guide%20v1.0.17_20180619.pdf",
+          "version" : "v1.0.17",
+          "date"    : "2018-06-19"
+        },
+        "2":{
+          "name":"uArm Swift Pro Develper Guide",
+          "link":"http://download.ufactory.cc/docs/en/uArm%20Swift%20Pro_Developer%20Guide%20v1.0.6.pdf",
+          "version" : "v1.0.6",
+          "date"    : "2018-04-02"
+        },
+        "3":{
+          "name":"Technical Specifications",
+          "link":"http://download.ufactory.cc/docs/en/uArm-Swift-Specifications-171012.pdf",
+          "version" : "v1.4",
+          "date"    : "2017-10-12"
+        },
+        "4":{
+          "name":"Vision Camera Kit User Maunal",
+          "link":"http://download.ufactory.cc/docs/en/Vision%20Camera%20Kit%20User%20Maunal%20V1.7.pdf",
+          "version" : "v1.7",
+          "date"    : "2019-02-25"
+        },
+        "5":{
+          "name":"uArm Swift Pro Calibration V1.0.2",
+          "link":"http://download.ufactory.cc/docs/en/uArm%20Swift%20Pro%20Calibration%20V1.0.2_20181212.pdf",
+          "version" : "v1.0.2",
+          "date"    : "2018-12-12"
+        },
+        "6":{
+          "name":"uArm-Firmware Guidance",
+          "link": "http://download.ufactory.cc/docs/en/uArm-Firmware%20Guidance_20181218.docx",
+          "version" : "v1.0.8",
+          "date"    : "2018-12-18"
+        },
+        "7":{
+          "name":"uArm Controller User Manual",
+          "link": "http://download.ufactory.cc/docs/en/uArm%20Controller%20User%20ManualV1.0.1_20181229.pdf",
+          "version" : "v1.0.0",
+          "date"    : "2018-12-29"
+        },
+        "8":{
+          "name":"uArm Conveyor User Manual V1.0.0",
+          "link":"http://download.ufactory.cc/docs/en/uArm%20Conveyor%20User%20Manual%20V1.0.0.pdf",
+          "version" : "v1.0.0",
+          "date"    : "2019-02-27"
+        },
+        "9":{
+          "name":"uArm Slider User Manual V1.0.0",
+          "link":"http://download.ufactory.cc/docs/en/uArm%20Slider%20User%20Manual%20V1.0.0.pdf",
+          "version" : "v1.0.0",
+          "date"    : "2019-02-27"
+        }
+      },
+
+
+      "swift":{
+        "1":{
+          "name":"Getting Started with uArm Swift",
+          "link":"http://download.ufactory.cc/docs/en/Swift-Quick-Start-Guide-180103.pdf",
+          "version" : "V1.0.1",
+          "date"    : "2018-01-03"
+        },
+        "2":{
+          "name":"Technical Specifications",
+          "link":"http://download.ufactory.cc/docs/en/uArm-Swift-Specifications-171012.pdf",
+          "version" : "v1.4",
+          "date"    : "2017-10-12"
+        },
+        "3":{
+          "name":"uArm STEAM Education Brochure",
+          "link":"http://download.ufactory.cc/docs/en/uArm-STEAM-Education-Brochure.pdf",
+          "version" : "V1.0",
+          "date"    : "2017-06-20"
+        }
+      },
+
+
+			"metal":{
+				"1":{
+					"name":"Getting Started with uArm Metal",
+					"link":"http://download.ufactory.cc/docs/en/uArm-Metal-Getting-Started-Guide.pdf",
+					"date"    : "2017-03"
+				},
+				"2":{
+					"name":"uArm Metal Developer Guide",
+					"link":"http://download.ufactory.cc/docs/en/uArm-Metal-Developer-Guide.pdf",
+					"date"    : "2017-03"
+				},
+				"3":{
+					"name":"uArm Metal GCode Communication Protocol",
+					"link":"http://download.ufactory.cc/docs/en/uarm_gcode_communication_protocol_v1.0_en.pdf",
+					"intro":"UArm gCode is an important part of the uArm firmware 2.0.<br>Based on the standard gCode protocol,<br>we add a new protocol head in front of the gCode so that it can be more easily to use and debug.<br>What’s more it is designed to be compatible with the standard gCode.",
+					"date"    : "2017-03"
+				},
+				"4":{
+					"name":"uArm Metal Packing List",
+					"link":"http://download.ufactory.cc/docs/en/uArm-Metal-Packing-List_standard-Kit.pdf",
+					"date"    : "2017-03"
+				}
+			}
+		}
+
+	}
+
+}
